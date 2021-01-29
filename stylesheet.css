@@ -8,3 +8,9 @@
 .container {
   padding:0px 0px 500px 0px;
 }
+.container h1 {
+  color: white;
+}
+.container ul {
+  color: white;
+}
